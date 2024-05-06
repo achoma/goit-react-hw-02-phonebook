@@ -14,7 +14,7 @@ export const Filter = ({ filter, onFilterChange }) => {
         name="filter"
         value={filter}
         onChange={onFilterChange}
-        placeholder="Search by name"
+        placeholder="Search contact ..."
       />
     </div>
   );
